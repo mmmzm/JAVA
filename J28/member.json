@@ -1,0 +1,31 @@
+{
+  "listBox": [
+    {
+      "memberId": "james01",
+      "name": "이상무01",
+      "passwd": "a4321",
+      "email": "jamesol01@paran.com",
+      "cellPhone": "010-1234-5678",
+      "regDate": "2024-04-19",
+      "regId": "admin"
+    },
+    {
+      "memberId": "james02",
+      "name": "이상무02",
+      "passwd": "a4321",
+      "email": "jamesol02@paran.com",
+      "cellPhone": "010-1234-5679",
+      "regDate": "2024-04-19",
+      "regId": "admin"
+    },
+    {
+      "memberId": "james03",
+      "name": "이상무03",
+      "passwd": "a4321",
+      "email": "jamesol03@paran.com",
+      "cellPhone": "010-1234-5680",
+      "regDate": "2024-04-19",
+      "regId": "admin"
+    }
+  ]
+}
