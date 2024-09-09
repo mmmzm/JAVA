@@ -1,2 +1,2 @@
-# JAVA1
+# JAVA
 JAVA_study
